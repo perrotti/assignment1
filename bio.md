@@ -1,5 +1,8 @@
 General Bio
 
+	NOTE: THIS WAS ALL A LIE! I'm actually a captain floating around space on a ship with every single race represented, and one guy that doesn't have any emotions...
+	
+	
 	Hobbies: Playing basketball, football, and softball. Video games and board games. Binge watching shows on Netflix. 
 	Favorite Movie: Fight Club
 	Favorite Board Game: Settlers of Catan
