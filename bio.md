@@ -23,3 +23,9 @@ Programming Background
 			for clients using templates and ready made websites. Combining this with my accounting
 			knowledge to serve small businesses from an Accounting, FP&A, and Marketing stand point. 
 			Currently learning more about SEO and other web optimization tactics. 
+
+School History
+
+	HS: David Douglas High School
+	University of Portland: BBA in Accounting
+	Oregon State University: BS in Computer Science (in progress)
