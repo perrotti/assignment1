@@ -8,3 +8,6 @@ General Bio
 	
 Programming Background
 
+	U of P: Was a CS student for 1.5 years before transitioning over to business. 
+			Most of the focus was around JAVA and Assembly Language.
+			Also took some very interesting Computer Architecture courses.
