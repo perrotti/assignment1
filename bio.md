@@ -6,5 +6,8 @@ General Bio
 	Favorite Video Game: Halo CE
 	Professional Interests: Mobile App development and business marketing & branding.
 	
+	New Interests: I want to learn to wakeboard and surf. I enjoy snowboarding and want to apply this to the water.
+	Guilty Pleasure: Seriously... is T-Swift not killing it lately? :-)
+	
 Programming Background
 
