@@ -13,3 +13,7 @@ Programming Background
 			Also took some very interesting Computer Architecture courses.
 	OSU:	So far we have focused mostly on C++, Assembly Language, and now HTML/CSS/PHP/SQL.
 	Work:	My work experience has mostly been focused on SQL & VBA.
+	Extra:	I've developed 2 minor iOS apps for fun. Also helped build a couple of websites 
+			for clients using templates and ready made websites. Combining this with my accounting
+			knowledge to serve small businesses from an Accounting, FP&A, and Marketing stand point. 
+			Currently learning more about SEO and other web optimization tactics. 
