@@ -9,5 +9,8 @@ General Bio
 	New Interests: I want to learn to wakeboard and surf. I enjoy snowboarding and want to apply this to the water.
 	Guilty Pleasure: Seriously... is T-Swift not killing it lately? :-)
 	
+	Favorite Book: Ender's Game (sad they ruined the movie)
+	Favorite Sports Teams: Seahawks, Oregon Ducks, & Trailblazers. 
+	
 Programming Background
 
